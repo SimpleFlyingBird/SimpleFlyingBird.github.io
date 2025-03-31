@@ -1,7 +1,7 @@
 # Site settings
 title: 轻舞飞扬
 SEOTitle: 轻舞飞扬的博客 | Flying  # 浏览器标签页显示的名字
-header-img: img/post-bg-desk.jpg
+header-img: img/v2-b2a18c2484964f8ebb4aa7fcd316e048_r.jpg
 email: xxxxxxx@gmail.com
 description: "允许自己一事无成"
 keyword: "博客, 生活, 学习, 游戏"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/SimpleFlyingBird/SimpleFlyingBird.github.io.git
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "允许自己一事无成"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/20240808-105709.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
